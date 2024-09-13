@@ -9,7 +9,7 @@ import UIKit
 
 var foods = ["Apple","Banana","Chicken","Pizza","Ham"]
 var prices = [0.75,0.55,7.55,14.99,9.99]
-var shoppingCart: [String: Double] = [:]
+var shoppingCart: [String: Int] = [:]
 
 class ViewController: UIViewController {
 
