@@ -8,7 +8,7 @@
 import UIKit
 
 var totalPrice = 0.0
-var foods = ["Apple","Banana","Chicken","Pizza","Ham"]
+var foods = ["apple","banana","chicken","pizza","ham"]
 var prices = [0.75,0.55,7.55,14.99,9.99]
 var shoppingCart: [String: Int] = [:]
 
